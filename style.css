@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Galada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
 :root {
 	--success-color: green;
@@ -11,7 +11,7 @@
 
 body {
 	font-family: 'Galada', cursive;
-	background-color: #40407a;
+	background-color: #7012EE;
 	min-height: 100vh;
 	display: flex;
 	justify-content: center;
